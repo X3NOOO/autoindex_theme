@@ -8,7 +8,7 @@ Live preview is avaliable [here](https://files.ksenon.net).
 
 ## Installation
 
-1. `git clone https://github.com/X3NO/autoindex_theme /path_to_your_website/.autoindex_theme`
+1. `git clone https://github.com/X3NOOO/autoindex_theme /path_to_your_website/.autoindex_theme`
 2. Add the following lines to your nginx configuration file:
 
 ```nginx
